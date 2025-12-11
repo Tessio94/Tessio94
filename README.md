@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Tessio94/Tessio94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Professional Background
+I’ve spent the past several years building full-stack applications, creating smooth user experiences, and architecting reliable back-end systems. My work ranges from crafting responsive interfaces to implementing scalable API-driven solutions.
 
-Here are some ideas to get you started:
+I’m always exploring new tools, improving my workflow, and staying up-to-date with the fast-moving JavaScript ecosystem — especially anything related to React, Next.js, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+- **JavaScript.js**  
+- **Node.js**  
+- **React**  
+- **Next.js**  
+- **SQL & PostgreSQL**  
+- **Docker**  
+- **WinterCMS**  
+- **PHP**
+
+### 📫 Thanks for dropping by!
+If you're interested in collaborating, or working together on a project, feel free to reach out!
