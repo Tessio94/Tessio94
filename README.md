@@ -1,18 +1,21 @@
 ## Hi there 👋
 
 ### Professional Background
-I’ve spent the past several years building full-stack applications, creating smooth user experiences, and architecting reliable back-end systems. 
+I’ve spent the past several years building full-stack applications and creating smooth user experiences. 
 My work ranges from crafting responsive interfaces to implementing scalable API-driven solutions.
 
 ### Skills & Technologies
-- **JavaScript.js**  
-- **Node.js**  
-- **React**  
-- **Next.js**  
+- **HTML**
+- **CSS (Tailwind, Bootstrap)**  
+- **JavaScript**  
+- **React**
+- **Node**    
+- **Next**  
 - **SQL & PostgreSQL**  
 - **Docker**  
-- **WinterCMS**  
 - **PHP**
+- **WinterCMS**  
+
 
 ### Thanks for dropping by!
 If you're interested in collaborating, or working together on a project, feel free to reach out!
