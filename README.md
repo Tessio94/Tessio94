@@ -11,7 +11,7 @@ My work ranges from crafting responsive interfaces to implementing scalable API-
 - **TypeScript**
 - **React**
 - **Node**    
-- **Next**  
+- **Next (Payload CMS)**  
 - **SQL & PostgreSQL**  
 - **Docker**  
 - **PHP**
