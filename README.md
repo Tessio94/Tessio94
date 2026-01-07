@@ -7,7 +7,8 @@ My work ranges from crafting responsive interfaces to implementing scalable API-
 ### Skills & Technologies
 - **HTML**
 - **CSS (Tailwind, Bootstrap)**  
-- **JavaScript**  
+- **JavaScript**
+- **TypeScript**
 - **React**
 - **Node**    
 - **Next**  
