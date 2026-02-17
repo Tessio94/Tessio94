@@ -15,6 +15,7 @@ My work ranges from crafting responsive interfaces to implementing scalable API-
 - **SQL & PostgreSQL**  
 - **Docker**  
 - **PHP**
+- **Laravel**
 - **WinterCMS**  
 
 
