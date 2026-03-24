@@ -12,11 +12,11 @@ My work ranges from crafting responsive interfaces to implementing scalable API-
 - **React**
 - **Node**    
 - **Next (Payload CMS)**  
-- **SQL & PostgreSQL**  
-- **Docker**  
+- **SQL & PostgreSQL**   
 - **PHP**
 - **Laravel**
-- **WinterCMS**  
+- **WinterCMS** 
+- **Docker** 
 
 
 ### Thanks for dropping by!
